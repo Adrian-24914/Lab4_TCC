@@ -5,8 +5,6 @@ construye su árbol sintáctico, aplica el algoritmo de Thompson y simula una
 cadena `w`. También abre una ventana desplazable con cada AFN y guarda una
 imagen SVG en `grafos/`.
 
-> El enunciado solicita un AFN de Thompson. El programa no aplica la
-> construcción de subconjuntos para convertirlo en AFD.
 
 El código está separado por responsabilidad: `thompson.py` contiene la
 construcción y simulación, `visualizacion_afn.py` genera SVG/Tkinter y
