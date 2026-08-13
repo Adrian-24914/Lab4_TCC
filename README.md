@@ -33,3 +33,5 @@ O una cadena por expresión repitiendo `--cadena`. Use `ε` para representar la
 cadena vacía. Las expresiones admiten unión `|`, concatenación implícita,
 cerradura `*`, cerradura positiva `+`, opcional `?`, paréntesis, escapes y clases
 de caracteres.
+
+Video: https://youtu.be/S1w3ZuCB7ZE
