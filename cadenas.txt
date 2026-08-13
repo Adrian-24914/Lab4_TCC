@@ -1,0 +1,4 @@
+abba
+abbb
+aabbabbba
+01000
